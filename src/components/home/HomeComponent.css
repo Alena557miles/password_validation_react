@@ -1,0 +1,30 @@
+
+  #password-strength {
+    display: flex;
+    gap:10px;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+
+  .password-section {
+    width: 30%;
+    height: 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+
+  .gray {
+    background-color: hsl(0, 0%, 44%);
+  }
+
+  .red {
+    background-color: #ff4d4d;
+  }
+
+  .yellow {
+    background-color: #ffcc33;
+  }
+
+  .green {
+    background-color: #8bc34a;
+  }
